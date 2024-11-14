@@ -1,0 +1,1 @@
+Este repositorio contém alguns códigos feitos durante as aulas de Algoritmo do curso técnico da termomecanica, ainda são programas simples, mas espero evoluir e conforme assim seguirão atualizando este repositorio e meu perfil
